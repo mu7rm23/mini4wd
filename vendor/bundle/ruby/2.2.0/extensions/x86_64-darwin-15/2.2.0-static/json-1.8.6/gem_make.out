@@ -1,0 +1,9 @@
+/Users/hirata/.rbenv/versions/2.2.4/bin/ruby -r ./siteconf20170910-27843-qsll3s.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install

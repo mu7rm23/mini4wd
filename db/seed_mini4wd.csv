@@ -1,0 +1,184 @@
+tamiya_id,category,name,keyword,price,description,zero_chassis_flag,type5_chassis_flag,s1_chassis_flag,s2_chassis_flag,sfm_chassis_flag,stz_chassis_flag,sx_chassis_flag,sxx_chassis_flag,vs_chassis_flag,stzx_chassis_flag,ar_chassis_flag,ms_chassis_flag,ma_chassis_flag,fma_chassis_flag
+15046,基本性能アップパーツ,ゴールドメッキターミナルＢ,,240,"電気をよく通し、サビにくい金メッキされた接点金具のセットです。タイプ2,4,5､FM、TZ,TZ-Xシャーシ用。",FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+15090,基本性能アップパーツ,ゼロシャーシ・ゴールドターミナル,,240,電気をよく通し、サビにくい金メッキされた接点金具のセットです。ゼロシャーシ、スーパー１シャーシ用。,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15111,基本性能アップパーツ,丸穴 ボールベアリング4個セット,,680,軸穴直径2mm、外径6mmのボールベアリング。回転摩擦を低減し、スピードアップに。車軸にも使用可能。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15149,基本性能アップパーツ,アルミモーターサポート,,120,ゼロ、スーパー1、スーパーⅡ、スーパーFM、スーパーTZ、スーパーTZ-X用。シャーシ後部に差し込んでモーターを確実に固定します。,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+15205,基本性能アップパーツ,1.4mm中空軽量プロペラシャフト,,140,ステンレス製中空シャフトにプラスチック製ギヤを装備した軽量タイプ。加速力、トップスピードがアップします。,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+15206,基本性能アップパーツ,2.0mm中空軽量プロペラシャフト,,160,キット標準のプロペラシャフトに比べて軽く仕上げ、スピードアップに効果的。モーターにも取り付けられるレッドカラーの樹脂製ピニオンギヤも2個セットしました。,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15234,基本性能アップパーツ,スーパーXシャーシ･中空軽量プロペラシャフト,,140,軽く、強度に優れたステンレス製。モーターパワーをスムーズに前後のタイヤに伝えてダッシュ力を高めます。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+15236,基本性能アップパーツ,ハイスピードカウンターギヤー,,300,ミニ四駆大径タイヤ装着車に最適。ギヤ比は4:1と4.2:1。28Tスパーギヤやボールベアリングもセット。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+15237,基本性能アップパーツ,スーパーXシャーシ･ゴールドターミナル,,240,電気をよく通し、パワーをむだなくモーターに伝える接点金具のセットです。スーパーＸ、XX、VS、ARシャーシ用。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+15287,基本性能アップパーツ,六角穴ボールベアリング4個セット,,600,回転抵抗を減らしてパワーを無駄なく伝えるとともに、トップスピードを高め、走行時間も伸ばします。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15289,基本性能アップパーツ,8Tピニオンギヤセット（真ちゅう/プラスチック・各4個）,,180,高性能モーターには真ちゅう製ピニオンギヤがおすすめ。パワーをロスなく伝えることができます。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15297,その他セッティング用パーツ,72mm中空ステンレスシャフト,,180,強度が高く軽い中空構造のステンレスシャフト。標準シャフトに対して約40％軽く、加速性能が向上します。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15340,基本性能アップパーツ,モータークーリングシールド,,300,モーターが空気に触れる面積を増やして熱を効果的に逃がし、熱によるモーターのパワーダウンを防ぐだけでなく、モーターの寿命ものばします。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+15347,基本性能アップパーツ,MSシャーシ用 ギヤベアリングセット,,420,高精度の専用シャフトとボールベアリングをセット｡駆動ロスをさらに減らして最高速を伸ばします。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15349,基本性能アップパーツ,MSシャーシ用 超速ギヤセット,,320,3.5：1のギヤセット。低重心化が可能な小径タイヤと組み合わせて最高速の低下を防ぎます。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15355,基本性能アップパーツ,MSシャーシ用 ハイスピードギヤ（4:1）,,320,ナイトロサンダーなどのスペアとして、また小径タイヤと組み合わせて加速重視のセッティングに。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15360,基本性能アップパーツ,MSシャーシゴールドターミナル,,320,電気をよく通す性質があり、電池のパワーをむだなくモーターに伝えます。MS、MAシャーシ用。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15390,基本性能アップパーツ,フッソコートギヤシャフト(ストレート2本),,160,高精度・高硬度なギヤシャフトに、摩擦抵抗の低いフッ素樹脂配合のメッキを施して滑らかな動きを生み出します。,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+15393,基本性能アップパーツ,フッソコート620スチールベアリング（4個),,500,摩擦抵抗の少ないフッ素樹脂配合のメッキ加工により、低抵抗も実現した高い工作精度の軸受けです。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15400,基本性能アップパーツ,フッソコートギヤシャフト（ツバ付き2本）,,180,摩擦抵抗の低いフッ素樹脂配合のメッキを施した高精度・高硬度なギヤシャフト。ツバ付ギヤシャフトを使用するミニ四駆用。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+15416,その他セッティング用パーツ,60mmブラック強化シャフト（4本）,,200,ハイスピード走行でも曲がりにくい、ブラックニッケルメッキ製の高剛性・高強度60mmシャフトです。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15417,その他セッティング用パーツ,72mmブラック強化シャフト（4本）,,200,ハイスピード走行でも曲がりにくい、ブラックニッケルメッキ製の高剛性・高強度72mmシャフトです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15421,基本性能アップパーツ,スーパーIIシャーシ ゴールドターミナル,,240,接点部分のサビを防ぐ効果があり、電気まわりのメンテナンスサイクルをのばす金メッキ金具です。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15429,基本性能アップパーツ,MSシャーシ用 ハイスピードEXギヤセット（3.7:1）,,320,超速ギヤに比べて加速に優れ、速度が落ちやすいテクニカルコースなどで威力を発揮します。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15432,基本性能アップパーツ,スーパーX･スーパーII シャーシ用超速ギヤセット,,240,スピードの伸びが魅力の超速ギヤ。620丸穴ボールベアリングもセット。VS、スーパーX、ARシャーシにも対応。,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+15434,基本性能アップパーツ,ハイスピードEXカウンターギヤセット（3.7:1）,,320,ハイスピードギヤと超速ギヤの中間のギヤ比（3.7:1）に設定できるギヤとシャフト、丸穴ボールベアリングもセットしました。,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+15438,基本性能アップパーツ,強化ギヤ&ワンロックギヤカバー（スーパーIIシャーシ用）,,340,ワンタッチで開閉可能な強化素材のカーボン繊維配合のリヤギヤカバーと同素材の8Tピニオン・ヘリカルギヤ各2個をセット。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15440,その他セッティング用パーツ,60mm中空ステンレスシャフト,,180,強度が高く軽い中空構造のステンレスシャフト。標準シャフトに対して約40％軽く、加速性能が向上します。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15453,基本性能アップパーツ,カーボン強化8Tピニオンギヤ（6個）,,160,カーボン繊維を配合した強化樹脂製のピニオンギヤ。モーターパワーを確実に伝達し、駆動ロスを抑えます。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15462,基本性能アップパーツ,カーボン強化ギヤ G13・8Tピニオンセット,,200,強度が高いカーボン繊維配合樹脂製ギヤのセットです。モーターに取り付ける8Tピニオン、プロペラシャフトとかみ合うG13ギヤのセット。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15465,アクセサリー・ケース,ミニ四駆 オイルペン,,580,化学合成油PAOが入った極細の筆ペン。ギヤやガイドローラーなど細かいパーツにFグリスを塗るツールとして最適。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15186,モーター,プラズマダッシュモーター,,820,高回転、高トルクはもちろん、放熱性を高めたモーターケースを採用。カーボンブラシの手入れも可能です。★タミヤ公認レースには使用できません,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+15307,モーター,ウルトラダッシュモーター,,620,抜群のトップスピードの伸びに加えて、コーナーや上り坂でも鋭いダッシュを発揮する高性能モーターです。★タミヤ公認レースには使用できません,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+15317,モーター,パワーダッシュモーター,,400,狭いコースやテクニカルコース、アップダウンのあるコースなどに有利なトルク型モーターです。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+15318,モーター,スプリントダッシュモーター,,400,ロングストレートのあるトップスピード重視のコースに最適な回転型モーターです。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+15455,モーター,ライトダッシュモーター,,380,アトミックチューンモーターとハイパーダッシュ2モーターの中間的なパワーで扱いやすく、いろいろなレースに使えます。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+15477,モーター,ハイパーダッシュ3 モーター,,400,電気効率と耐久性のバランスに優れた銀カーボンブラシ採用。高速コースからテクニカルコースまで様々なコースで高性能を発揮。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+15484,モーター,トルクチューン2モーター,,360,ハイトルク型の高性能モーター。加速力に優れているためテクニカルコースに適しています。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+15485,モーター,レブチューン2モーター,,360,スピードの伸びに優れた回転型。ストレートの多いハイスピードコースに適しています。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+15486,モーター,アトミックチューン2モーター,,360,トルクとスピードのバランスが取れた性格を持ち、ギヤ比を選んで色々なコースに対応できます。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+15375,モーター,ハイパーダッシュモーターPRO,,420,ミニ四駆PRO用の上級者向けモーター。高速コースからテクニカルコースまで高い性能を発揮します。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15402,モーター,ライトダッシュモーターPRO,,400,ハイパーダッシュモーターPROと、トルクチューンモーターPROの中間的な性能。上級者用の高効率モーターです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15433,モーター,マッハダッシュモーターPRO,,420,カーボンブラシを採用した高回転型のハイパワーモーター。小径タイヤとの組み合わせがおすすめ。ミニ四駆PRO用。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15487,モーター,トルクチューン2モーターPRO,,360,ハイトルク型の高性能モーター。加速力に優れているためテクニカルコースに適しています。ミニ四駆PRO用。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15488,モーター,レブチューン2モーターPRO,,360,スピードの伸びに優れた回転型。ストレートの多いハイスピードコースに適しています。ミニ四駆PRO用。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15489,モーター,アトミックチューン2モーターPRO,,360,トルクとスピードのバランスが取れた性格を持ち、ギヤ比を選んで色々なコースに対応できます。ミニ四駆PRO用。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15238,タイヤ・ホイール,スーパーX･ナローワンウェイホイール,,600,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15239,タイヤ・ホイール,中空ゴム小径タイヤ（ホイール付）,,260,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15364,タイヤ・ホイール,大径ソフトスリックタイヤセット（クリヤー）,,220,ミニ四駆に標準装備されている大径タイヤにくらべて柔らかく、ハイグリップを発揮して加速性を高めます。標準タイヤや別売の大径ハードタイヤを組み合わせてセッティングの幅を広げます。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15366,タイヤ・ホイール,大径カーボンホイールセット（ソフトスリックタイヤ付）,,320,カーボンファイバーを配合した強度の高い大径ホイールに､ハイグリップなスリックタイヤをセット。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15368,タイヤ・ホイール,大径ナローライトウェイトホイール（バレルタイヤ付）,,320,強度が高く軽量な5本スポークの大径ホイールに、接地面積の少ないバレル（たる形）タイヤをセット。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15376,タイヤ・ホイール,オフセットトレッドタイヤ,,220,"トレッド（接地面）を中心からずらした特殊構造のタイヤです。トレッドを狭めた内向きにセットすると直進安定性がアップ。トレッドを広げる外向きにセットするとコーナリング性能が高まります。タイヤの向きを変えるだけで、簡単にセッティング変更が可能。大径ホイールと組み合わせて使用します。",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15378,タイヤ・ホイール,オフセットトレッドタイヤ・ソフト （クリヤー）,,220,"トレッド（接地面）を中心からずらした特殊構造のタイヤです。トレッドを狭めた内向きにセットすると直進安定性がアップ。トレッドを広げる外向きにセットするとコーナリング性能が高まります。タイヤの向きを変えるだけで、簡単にセッティング変更が可能。大径ホイールと組み合わせて使用します。",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15379,タイヤ・ホイール,オフセットトレッドタイヤ・ハード（ホワイト）,,220,"トレッド（接地面）を中心からずらした特殊構造のタイヤです。トレッドを狭めた内向きにセットすると直進安定性がアップ。トレッドを広げる外向きにセットするとコーナリング性能が高まります。タイヤの向きを変えるだけで、簡単にセッティング変更が可能。大径ホイールと組み合わせて使用します。",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15387,タイヤ・ホイール,大径ワンウェイホイールWT（オフセットトレッドタイヤ付）,,560,スムーズなコーナリングを生み出す大径・ワイドトレッドタイプのワンウェイホイールです。ブラックカラーのオフセットトレッドタイヤ付き。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15388,タイヤ・ホイール,ナローレストンスポンジタイヤセット （ブラック）,,440,軽量で優れたグリップ力を発揮する特殊な材料、レストンを使った幅の狭いスポンジタイヤを4本セットしました。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15396,タイヤ・ホイール,小径オフセットトレッドタイヤ,,220,手軽にセッティングが変更できるオフセットトレッドタイヤの小径タイプです。標準タイヤより軽く、加速性能アップも。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15397,タイヤ・ホイール,ローハイトオフセットトレッドタイヤ,,220,ローハイトタイプのホイール（15294･15295･15358･15359）に装着可能なオフセットトレッドタイヤです。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15414,タイヤ・ホイール,スーパーX・XXカーボン大径ナローホイール&バレルタイヤ（ ホワイト）,,320,カーボン繊維配合ナイロン樹脂製の強化タイプ大径ナローホイールとバレルタイヤのセットです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+15415,タイヤ・ホイール,スーパーX･XXカーボン小径ホイール&バレルタイヤ（ホワイト）,,320,カーボン繊維配合ナイロン樹脂製とした強化タイプの小径ホイール。路面との接地面積が小さいのも特徴。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15442,タイヤ・ホイール,スーパーX･XXローハイトタイヤ&ホイールセット,,320,標準タイヤに比べて軽量で、ギャップではねにくく、ホイールオフセットを適正化し、トレッドが広がりません。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+15443,タイヤ・ホイール,ローハイトタイヤ&ワンウェイホイールセット,,560,スムーズなコーナリングを生み出すワンウェイホイールに、ローハイトタイヤを組み合わせました。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15444,タイヤ・ホイール,スーパーX･XXシャーシ 大径ワンウェイホイール（オフセットタイヤ付き）,,560,スムーズで減速感のないコーナリングを実現するワンウェイホイールはブラックカラー。X/XXシャーシに装着して最適なトレッドになるように設定。また、オフセットトレッドタイヤが付いて、セッティング変更も手軽です。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15445,タイヤ・ホイール,大径ローハイトタイヤ&ホイールセット,,320,スロープセクションなど起伏のあるコースでマシンの着地時に跳ねにくいタイヤ・ホイールです。直径31mm。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15446,タイヤ・ホイール,スーパーX・XX 大径ローハイトタイヤ&ホイール,,320,ノーマルタイヤに比べて厚みが薄く軽量で、起伏の多いコースに有利なタイヤ・ホイールです。直径31mm。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+15483,タイヤ・ホイール,ローハイトタイヤ&ホイールセット（Yスポーク）,,320,繊細で起伏に富んだY 字形の5 本スポークホイールです。26mm 径のローハイトタイヤもセットしました。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15491,タイヤ・ホイール,大径Vスポークナローホイール（バレルタイヤ付）,,320,軽量で強度も高い、V字型スポークの大径ホイールに、接地面積の少ないバレル（たる形）タイヤをセット。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15504,タイヤ・ホイール,スーパーX・XX大径5本スポークホイール＆ハードスリックタイヤ（レッド）,,320,装着した時にトレッドが広がりすぎない大径ホイールと、抵抗が少なくコーナリングに有利なハードタイヤです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15507,タイヤ・ホイール,HG 低反発スポンジタイヤ（大径ナローホイール用）,,600,低反発な素材を使用したタイヤで跳ねにくく安定した走行が可能。スポンジならではの軽さもポイントです。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15509,タイヤ・ホイール,ローハイトオフセットトレッドタイヤ・ハード（ホワイト）,,240,タイヤの取付け向きでトレッドを変更できるオフセットトレッドタイヤのローハイトタイプ。カーブ時の抵抗が少なくテクニカルコースで効果的。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15511,タイヤ・ホイール,大径ローハイトタイヤ＆6本スポークホイール,,320,DCR-01（デクロス-01）用の大径ローハイトタイヤ用ホイールとタイヤとのセットです。ホイール成形色は白。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15513,タイヤ・ホイール,ローハイトタイヤ＆ホイールセット（5本スポーク）,,320,マグナムセイバープレミアムと併せてデザインされたローハイトタイヤ用ホイールとタイヤのセット。ホイール成形色は白。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15369,クリヤーボディセット,アバンテMk.Ⅱ クリヤーボディセット,,440,キット標準のボディに比べて約半分の軽さ、しかも強度も十分なポリカーボネート製ボディです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15447,クリヤーボディセット,トライダガーXX クリヤーボディセット,,480,キット標準のボディに比べて約半分の軽さ、しかも強度も十分なポリカーボネート製ボディです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15466,クリヤーボディセット,エアロアバンテ クリヤーボディセット,,480,キット標準のボディに比べて約半分の軽さ、しかも強度も十分なポリカーボネート製ボディです。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+15481,クリヤーボディセット,トルクルーザークリヤーボディセット,,480,キット標準のボディに比べて約半分の軽さ、しかも強度も十分なポリカーボネート製ボディです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15482,クリヤーボディセット,ベルダーガクリヤーボディセット,,480,キット標準のボディに比べて約半分の軽さ、しかも強度も十分なポリカーボネート製ボディです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+15494,クリヤーボディセット,アスチュート クリヤーボディセット,,480,キット標準のボディに比べて約半分の軽さ、しかも強度も十分なポリカーボネート製ボディです。,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+15496,クリヤーボディセット,アバンテ クリヤーボディセット,,480,今もなお人気の初代アバンテ仕様の透明ステッカーが魅力。ボディは軽量なポリカーボネート製です。,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+15502,クリヤーボディセット,サンダーショット クリヤーボディセット,,480,歴代クリヤーボディの中でも軽量・小面積、しかも強度も十分なポリカーボネート製ボディです。,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+15503,クリヤーボディセット,ウイニングバード フォーミュラー クリヤーボディセット,,480,キット標準のボディに比べて約60%の軽さで加速性能や最高速度、衝撃強度も向上するポリカーボネート製ボディです。,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+15059,ローラー・スタビ,スタビライザーポールセット,,140,先端のボール部分がコースフェンスにふれてマシンを支え、安定した高速コーナリングが可能です。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15113,ローラー・スタビ,リヤーブレーキ・ローラー,,260,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+15150,ステー・プレート,FRP強化マウントプレートセット,,240,走行中に大きな力がかかる部分を補強。取り付け穴が多く開けられ、,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+15158,ローラー・スタビ,ショートスタビローラー,,300,ゴムリング付きローラーでコーナリングもスムーズ。ポールは遠心力で傾いたマシンを支えます。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15160,ローラー・スタビ,19mmアルミベアリングローラー,,660,外径19mmのアルミベアリングローラー。ゴムリング付きでコースとの衝撃をおさえ、安定した走行が可能。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15161,ローラー・スタビ,17mmアルミベアリングローラー,,660,滑らかに回るボールベアリングを内蔵した、軽量で変形がほとんどないアルミ製ローラー。ゴムリング付き。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15193,ステー・プレート,FRPマルチ補強プレート,,200,長さ91mm、幅7mmのストレートタイプのFRPプレート。ビス止め用の穴も開けられ取り付けも手軽。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15198,その他セッティング用パーツ,リヤースライドダンパー・ブレーキセット,,420,,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+15232,その他セッティング用パーツ,ミニ四駆ビスセットA,,140,"15,20,30mmの長さの2mm丸ビスと金具のセット。ローラーを高い位置に取り付ける等、便利に使えます。",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15233,その他セッティング用パーツ,ミニ四駆ビスセットB,,140,10mm、12mm、15mmの長さの2mm丸ビス各6本、2mmナット4個、さらにロックナットも2個セット。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15242,ステー・プレート,スーパーXシャーシ FRPマルチ強化プレート,,200,パンパーを強化するFRPプレート。大きなショックでも変形しにくく、ローラーの効果を確実に発揮。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+15243,ステー・プレート,スーパーXシャーシ FRPリヤーローラーステー,,220,力を受けてもたわみにくいのでローラーの向きが変わらず、安定したコーナリングを引き出すFRP製ステー。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15251,ローラー・スタビ,19mmプラリング付アルミベアリングローラー,,660,アルミベアリングローラーにプラスチックリングを装着。コースとの摩擦抵抗が小さく、高速走行向き。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15258,その他セッティング用パーツ,ステアリングシステムセット,,450,直線ではノーマルマシン同様パワーを路面に伝え、コーナーにさしかかると駆動力を保ちつつ自動的にステアリング、パワーロスをへらしてコーナーをすばやくすり抜ける。しかも大径と小径どちらのタイヤにも対応しているから、コースにあわせて使い分けることもできます。,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+15343,その他セッティング用パーツ,マルチセッティングウェイト,,280,１g、1.5g、2g、3gの４種類の重さを用意した14ブロックのダイキャスト製。板チョコのように必要な部分を折りとって、シャーシやボディに貼り付けて使用。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15344,ローラー・スタビ,ローラー用9mmボールベアリングセット,,500,外径9mmのローラー用ボールベアリング。前後で大きさを変えれば、セッティングの幅が広がります。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15345,ローラー・スタビ,ローラー用11mmボールベアリングセット,,500,ガイドローラーとして欠かせないボールベアリング。外径11mmサイズを2個セットしました。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15357,ステー・プレート,FRPワイドプレートセット,,240,MSシャーシのローラー取り付け位置を広げ、シャープなコーナリングと高い直進安定性を発揮します。,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15362,ステー・プレート,MSシャーシ リヤダブルローラーステー,,460,MSシャーシのリヤローラーステーの上下にローラーをセットできるパーツです。カーブでの遠心力をがっちり受け止めてスムーズなコーナリングを実現。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+15373,その他セッティング用パーツ,ローラー角度調整プレートセット,,260,ローラーを取り付けるFRPなどとシャーシの間に挟み込んでダウンスラスト角を調節できるプレートです。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15377,ステー・プレート,スライド・ワイドローラーステーセット,,340,"コースフェンスとの接触の衝撃を和らげる構造を持ち、9,13,19mmのローラーを幅広に装着できるステー。",FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+15381,ローラー・スタビ,低摩擦プラローラーセット,,200,"滑りやすい材質なので滑らかに回るプラスチック製ローラー。16,19mmの2種類のサイズを4個ずつセット。",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15385,ローラー・スタビ,ボールスタビキャップ （モノクロ）,,200,スタビライザーポールのボール部分のセット。白・黒・ガンメタ・銀・金の5色4個のボールとねじ込み用ゴムチューブ付き。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15391,ローラー・スタビ,大径スタビヘッドセット（11mm、15mm）,,460,コーナーでのマシンの傾きをへらし走行安定性を高めます。13〜19mmのローラーと組合わせる2サイズをセット。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15392,マスダンパー,マスダンパーセット,,360,マシンが飛び跳ねてしまった時、着地時におもりが逆方向に動いてバウンドを防ぎます。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15394,ステー・プレート,FRPマルチワイドステー,,260,9mm、13mm、19mmのベアリングローラーをワイドにセットできる一枚板のFRPプレートです。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15395,その他セッティング用パーツ,六角マウントセット（10mm、15mm）,,400,ローラーを高い位置に取り付けたり、FRPプレートを2段に装備する時などに便利に使える六角マウントです。マウント両端にネジ溝が切ってあり、部品の取付、取り外しも手軽です。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15398,ローラー・スタビ,2段アルミローラーセット（13-12mm）,,900,2つのローラーを一体化したローラー。車体が傾いた時は上のローラーがフェンスに接触。転倒を防止します。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15399,その他セッティング用パーツ,MSシャーシマルチブレーキセット,,360,スポンジシートを貼り付けたパーツを車体下面に装着。レーンチェンジやスロープなどでスポンジが路面に接触してマシンにブレーキをかけ、コースアウトを防ぎます。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+15401,マスダンパー,マスダンパーセット（ヘビー）,,360,着地時のバウンドを抑えるマスダンパーのヘビータイプ。高速走行時にもマシンの上下動を確実に抑えます。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15403,ローラー・スタビ,2段アルミローラーセット（9-8mm）,,900,13-12mmの2段ローラーより小さいため、ローラー重量が約1/2という軽さが特徴。520ベアリング付き。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15404,ローラー・スタビ,19mmアルミベアリングローラー（5本スポーク）,,660,レーシングムードたっぷりの5本スポークデザインを採用した、軽く強度の高いアルミ製の19mmローラーです。軸受け部に520ボールベアリングを組み込んでスムーズな動きを生み出します。ゴムリング2個、取り付け用アルミスペーサー4個と2×8mmビスも付いています。 ,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15405,その他セッティング用パーツ,フロントアンダーガード,,360,ジャンプ後の着地でフェンスに乗り上げてもすぐに復帰でき、完走率を高めるパーツです。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+15407,その他セッティング用パーツ,ビスセットD（40mmステンレスビス）,,240,強度の高いステンレス製40mmビス3本に加えて、1.5mm、3mm、6mmのアルミカラーをそれぞれ4個ずつセット。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15408,ローラー・スタビ,ロングスタビ低摩擦プラローラー（13mm）,,300,コーナリング時のマシンの傾きを抑え安定性を高めるスタビローラーのロングタイプです。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15412,ステー・プレート,カーボン強化リヤダブルローラーステー（3点固定タイプ）,,320,3点固定による高い剛性を持つカーボン繊維配合のリヤダブルローラーステー。幅広いセッティングが可能です。,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+15413,その他セッティング用パーツ,ゴムブレーキセット,,200,レーンチェンジやスロープを上る時、ブレーキゴムが路面と接触し、マシンを減速させコースアウトを防止。,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+15418,ローラー・スタビ,ゴムリング付2段アルミローラーセット（13-12mm）,,900,13-12mmの上段のローラーをゴムリング装着状態で12mmとし、安定性を高めました。520ベアリング付き。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15426,ローラー・スタビ,19mmプラリング付アルミベアリングローラー（ディッシュタイプ）,,660,より強度の高いディッシュタイプのアルミベアリングローラー。取付用のビスやスペーサーもセットしました。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15427,マスダンパー,マスダンパー スクエア（6×6×32mm）,,360,マシンの跳ねを押さえる角柱型のマスダンパー。多くの取り付け穴で様々な場所に配置可能。真ちゅう製、8.3g。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15428,マスダンパー,マスダンパー スクエア（8×8×32mm）,,400,フロント、リヤバンパーなどに取付けてマシンの振動をおさえるほか、固定ウェイトとしても使えます。14.9g。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15430,ステー・プレート,FRPマルチワイドリヤステー,,300,ミニ四駆各車に取り付けられるFRP製ステー。ブレーキパーツやマスダンパーを最後方に取り付けられる穴も用意。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15431,ステー・プレート,FRPマルチ補強プレート（ショート）,,260,MSシャーシのユニット間を固定する補強プレート。ノーズ、テールユニットを確実に固定、シャーシの剛性を高めます。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+15435,その他セッティング用パーツ,ファーストトライ パーツセット,,900,FRPマルチワイドステー、13・19mm低摩擦プラローラー、マスダンパー、スタビキャップなどレース用の基本パーツのセット。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+15436,ローラー・スタビ,大径スタビヘッドセット（17mm）,,420,フロントに19mmローラーを使った時に組み合わせ、カーブでの車体の傾きを防ぎ走行安定性を高める17mmスタビヘッド。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15437,ローラー・スタビ,13mmオールアルミベアリングローラー,,600,高品質な仕上がりのアルミ削り出しローラー。520ボールベアリングを装備してスムーズな回転を生み出します。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15441,その他セッティング用パーツ,ブレーキスポンジセット,,440,スポンジを路面に接触させ、スピードを落とすブレーキセット。堅さが異なる3種類のスポンジシートとFRPプレートなどのセットです。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15449,ローラー・スタビ,17mmプラリング付アルミベアリングローラー,,660,軸受けにボールベアリングを組み込んだ17mmアルミ製ローラー。高速コーナーで威力を発揮するプラリング付き。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15450,その他セッティング用パーツ,ARシャーシ ファーストトライパーツセット,,900,前後のFRPプレート、13mm低摩擦プラローラー、マスダンパー、スタビポールや取り付け用の金具もセット。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+15451,ステー・プレート,ARシャーシ FRPフロントワイドステー,,260,9mm、13mm、19mmローラーはもちろん、11mm、17mmローラーを規定幅いっぱいに取り付け可能。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+15452,ステー・プレート,ARシャーシ FRPリヤワイドステー,,300,9、13、19mmローラーはもちろん、11mmローラーを規定幅いっぱいに取り付けられるARシャーシ用のFRPリヤステー。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15454,その他セッティング用パーツ,2mm キャップスクリューセット（ 25mm･30mm）,,540,通常のビスに比べて約1.5倍の強度を持つキャップスクリュー。マスダンパーなど重いパーツやローラーの取り付け用として効果的。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15456,基本性能アップパーツ,ARシャーシ セッティングギヤセット,,900,3.5：1、3.7：1、4：1、4.2：1、5：1の5種類のギヤ比が選べます。中空軽量プロペラシャフトや620ボールベアリングなどもセット。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+15457,ローラー・スタビ,2段低摩擦プラローラーセット（ 赤・青13-12mm）,,220,スタビライザー効果を発揮して転倒を防止する2段樹脂ローラー。低摩擦樹脂製でコーナリングもスムーズ。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15458,その他セッティング用パーツ,ARシャーシ ブレーキセット,,360,前後方向の取付け位置を選べ、ビスとスペーサーで高さ調整ができ小径〜大径タイヤにも対応。摩擦力の異なる2種類のブレーキ用スポンジ付き。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+15459,マスダンパー,ARシャーシ サイドマスダンパーセット,,620,ボウル形と円筒形のマスダンパー、FRP製サイドプレート、スタビポールをセット。ARシャーシの着地安定性を高めます。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+15461,ローラー・スタビ,19mmプラリング付 アルミベアリングローラー（ 5本スポーク）,,660,5本スポークデザインがレーシングムード満点。軽く強度の高いアルミ製のローラーに、高速コーナーで威力を発揮するブルーカラーのプラスチック製リングを装着しました。軸受け部分にボールベアリングを組み込んだスムーズな回転も魅力です。取り付け用のビスやスペーサーもセットしました。ミニ四駆PROをはじめミニ四駆各種に装着可能。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15464,ローラー・スタビ,HG 19mmオールアルミベアリングローラー,,760,高い剛性を誇る直径19mmのオールアルミ製ローラー。ボールベアリングを埋め込んで、スムーズな回転を生み出します。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15467,その他セッティング用パーツ,リヤワイドスライドダンパー,,440,コースの継ぎ目のフェンスギャップからの衝撃を吸収し、安定した走行を実現するワイドタイプのスライドダンパーです。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+15469,その他セッティング用パーツ,フロントワイドスライドダンパー,,440,フェンスにぶつかった時のショックを吸収、走行をスムーズにするワイドタイプのスライドダンパーです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+15472,ステー・プレート,FRPフロントワイドステー（フルカウルミニ四駆タイプ）,,260,フルカウルミニ四駆各車に無加工で取り付けられるFRP製ステー。ボディに合わせた滑らかな曲線が特徴。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15473,その他セッティング用パーツ,アルミスペーサーセット（12/6.7/6/3/1.5mm）,,260,ローラーやステー類、ブレーキの高さ調整用アルミスペーサー。1.5〜12mmまでの5種類の長さをそれぞれ4個ずつセットしました。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15475,ローラー・スタビ,ローラー用13mmボールベアリングセットII,,500,外径13mm、内径5mm、厚さ3mmのボールベアリングセット。シール部分をすべてスチールとした強度の高さも特長。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15476,その他セッティング用パーツ,MAシャーシ ファーストトライパーツセット,,900,前後のFRPプレート、13mm低摩擦プラローラー、アジャストマスダンパー4個、スタビポールや取り付け用の金具もセット。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+15478,マスダンパー,ボールリンクマスダンパー（スクエア）,,440,マスダンパーは低い位置にセットでき、低重心化にも効果的。衝撃でも外れにくい、ガラス繊維配合樹脂製のアジャスター採用。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15490,マスダンパー,MAシャーシ サイドマスダンパーセット,,620,マスダンパースクエア、FRP製サイドプレート、スタビポールをセット。MAシャーシの着地安定性を高めます。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+15492,その他セッティング用パーツ,ブレーキスポンジセット（1/2/3mm レッド）,,440,ブレーキ効果の高いスポンジシートのセット。厚さの違うシートを様々に貼ってブレーキセッティングが可能です。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15493,その他セッティング用パーツ,2mmアルミロックナット（レッド5個）,,380,ネジ部分の樹脂がゆるみを防止、振動に強いアルミ製ロックナット。鮮やかなレッドアルマイト仕上げ。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15495,ステー・プレート,HG カーボンマルチ補強プレート（1.5mm）,,880,1.5mm厚のカーボンプレートを使用した補強プレート。FRPに比べて曲げに強く、たわみが少ないのが特徴です。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+15497,ステー・プレート,HG 13・19mmローラー用 カーボンマルチ補強プレート（1.5mm）,,920,様々なローラーセッティングに対応するストレートバー形状のカーボンプレートです。ホワイトプリント入り。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15498,ステー・プレート,HG カーボンフロントワイドステー（1.5mm）,,940,FRPに比べて強度が高く、パーツ取り付け穴を多く設置しています。オリジナルデザインのプリント入り。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+15499,ステー・プレート,HG カーボンリヤワイドステー（1.5mm）,,980,各種のローラーを規定幅いっぱいに取り付けられる強度の高いカーボン製リヤステーです。ホワイトプリント入り。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15500,その他セッティング用パーツ,2mmアルミロックナット（ブルー5個）,,380,チューンナップのアクセントに最適なブルーアルマイト仕様のロックナット。コンクールデレガンスにもおすすめ。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15501,マスダンパー,スリムマスダンパーセット,,400,樽型タイプのマスダンパーを各2個ずつセット。狭い隙間にも装着でき、セッティングの幅が広がります。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15506,その他セッティング用パーツ,軽量プラスペーサーセット（12/6.7/6/3/1.5mm）,,200,アルミ製と比べて40%の軽量化。低摩擦樹脂製で接触時の抵抗を減らします。1.5〜12mmまでの5種類の長さをそれぞれ4個ずつセット。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15508,その他セッティング用パーツ,ステンレスビスセット（15・20・25・30mm）,,400,強度の高いステンレス製2mmのビス。長さ15mmを4本、20mmを4本、25mmを8本、30mmを8本セット。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15510,その他セッティング用パーツ,ステンレス皿ビスセット（10・12・20・30mm）,,300,皿穴加工をすればビスの頭が出ない皿ビスセット。10mm を4本、12mmを6本、20mmを2本、25mm、30mmを各4本セット。※ビス穴の加工は2mm皿ビス穴加工ビット（電動リューター用）（74130）を使用してください。,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15512,その他セッティング用パーツ,ブレーキスポンジセット（マイルド 1/2/3mm ブルー）,,440,ブレーキスポンジ（レッド）（15492）に比べて摩擦力の弱い3種類の厚みのスポンジシートをセットしました。,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+15514,その他セッティング用パーツ,FM-Aシャーシ ファーストトライパーツセット,,900,FM-Aシャーシの基本セッティングに欠かせない、ローラーとマスダンパーパーツをまとめました。★前後FRPプレートやスタビポール、マスダンパー取り付け金具に加え、板レンチなどの工具もセット。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+15515,マスダンパー,マスダンパー スクエア ショート（6×6×14mm 2個）,,400,長さ14mmの6mm四角柱2個をセット。★従来製品に比べて長さが短く、取り付け高が低いのもポイント。★制振装置としてだけではなく、固定式のウェイトとしても使えます。真ちゅう製、1本約3.6g。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+15516,その他セッティング用パーツ,FM-Aシャーシ セッティングギヤセット,,860,駆動系のチューンナップに最適なパーツをまとめました。★FM-Aシャーシに使える全てのギヤをはじめ、ベアリングやプロペラシャフトなどもセット。★スーパーX/XXシャーシにも使えます。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+55115,電池・充電器,単3形ニッケル水素電池ネオチャンプ（2本）と急速充電器II,,3500,タミヤの公認競技会で使えるミニ四駆用の高性能充電式電池ネオチャンプ2本と急速充電器のセットです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+55116,電池・充電器,単3形ニッケル水素電池ネオチャンプ（4本）と急速充電器PROII,,5200,タミヤの公認競技会で使えるミニ四駆用の高性能充電式電池ネオチャンプ4本と急速充電器のセットです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15420,電池・充電器,単3形ニッケル水素電池ネオチャンプ（2本）,,1000,高性能な充電式のニッケル水素電池です。アルカリ乾電池に比べて低温に強くパワフルで、1本約19gの軽量設計です。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+55117,電池・充電器,パワーチャンプRS,,280,タミヤ公認競技会で使える、高性能な単3形アルカリ乾電池。容量や電流放電性能がいっそうアップしました。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15463,アクセサリー・ケース,ミニ四駆マルチテープ（10mm幅 ブルー）,,360,電池やパーツ取り付け箇所の補強など、手軽に使えるテープです。手でカットでき、はがしてもノリ残りが少ないのもポイント。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15383,アクセサリー・ケース,ミニ四駆 Fグリス（フッソ樹脂配合）,,400,固体の中で最も摩擦係数の低いフッ素樹脂PTFEの微粒子を配合した高性能グリスです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15423,アクセサリー・ケース,ミニ四駆 バッテリーケース,,360,単3形電池を2本ずつ12本入れることができる電池ケース。新しい電池と使い終わった電池を上下に分けておくにも便利。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15354,アクセサリー・ケース,ミニ四駆PRO レーサーズボックス,,2200,最大で5台のマシンや工具を収納。競技会などへの持ち運びに便利。内部は使いやすい2段式トレー。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15424,アクセサリー・ケース,ミニ四駆ポータブルピット,,2600,ミニ四駆を最大4台入れて持ち運べる、2段構造の樹脂製キャリングケースです。レース会場でも便利に使えます。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15460,アクセサリー・ケース,ミニ四駆パーツケースセット,,860,1ブロックごとにフタが付いた8連ケース2個を、アウターケースに収めました。ケースは中身が見える半透明タイプです。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15505,アクセサリー・ケース,ミニ四駆モーターケース2,,260,片軸･両軸、モーターの形状を問わずに合計8個収納可能。さらに、ピニオンギヤ収納スペースも2箇所用意しました。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+15474,アクセサリー・ケース,ミニ四駆 キャッチャー,,560,走行しているミニ四駆を安全にキャッチできるツールです。底面の3つのリブがキャッチした後のタイヤロックを防止。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+69506,コース,ジャパンカップ Jr.サーキット,,19800,コースの大きさ：306cm×144cm,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+94892,コース,ジャパンカップ Jr.サーキット（レッド/ブルー/ホワイト）,,19800,コースの大きさ：306cm×144cm,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+95046,コース,オーバルホームサーキット 立体レーンチェンジタイプ（ブラック）,,8800,コースの大きさ：216cm×120cm,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+69569,コース,オーバルホームサーキット 立体レーンチェンジタイプ（ライトグリーン/ブルー）,,8800,コースの大きさ：216cm×120cm,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+94893,コース,オーバルホームサーキット 立体レーンチェンジタイプ（レッド/ブルー/ホワイト,,8800,コースの大きさ：216cm×120cm,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+69571,コース,ジャパンカップジュニアサーキットバンクアプローチ20（レッド）,,7800,ジャパンカップJr.サーキットのカーブセクションが迫力あるバンク付きコースに変身します。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+69570,コース,ジュニアサーキットスロープセクション（レッド）,,9000,ジャパンカップジュニアサーキットに今回のスロープセクションを組み込むことで、公式レースと同じ構成を再現出来、より本格的なレースが楽しめます。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+02171,コース,ミニ四駆5レーンサーキット基本セット,,88000,コースの大きさ：347cm×191cm,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+69572,コース,ミニ四駆 ウォッシュボードセクション 5mm・10mm各2枚,,500,★高さ5mm･幅49mm･長さ120mmと、高さ10mm･幅55mm･長さ120mmのジャンプ台を2個ずつセット。★付属のシールで手軽に設置でき、路面の変化がセッティングの面白さを高めます。,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE

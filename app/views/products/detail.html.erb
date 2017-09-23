@@ -1,0 +1,116 @@
+
+<div class="container-fluid">
+  <div calss= "row">
+    <div class="col-xs-12 center-block">
+      <!--<iframe class="center_iframe" src="https://rcm-fe.amazon-adsystem.com/e/cm?f=ifr&t=mini4wd07-22&o=9&p=286&l=st1&mode=toys-jp&search=<%=@product.name %>&fc1=000000&lt1=_blank&lc1=0611A3&bg1=FFFFFF&nou=1" marginwidth="0" marginheight="0" width="200" height="200" border="0" frameborder="0" style="border:none;" scrolling="no"></iframe>
+      -->
+    </div>
+    <div class="col-xs-1 col-sm-1 col-md-2 col-lg-3"></div>
+    <div class="col-xs-10 col-sm-10 col-md-8 col-lg-6">
+
+<table class="table table-bordered">
+  <tbody>
+    <tr>
+      <td class="info col-xs-4 col-sm-4 col-md-3 col-lg-2">No.</td>
+      <td><%= @product.tamiya_id %></td>
+    </tr>
+    <tr>
+      <td class="info">カテゴリ</td>
+      <td><%= @product.category %></td>
+    </tr>
+    <tr>
+      <td class="info">価格(税抜)</td>
+      <td>¥ <%= @product.price %></td>
+    </tr>
+    <tr>
+      <td class="info">名称</td>
+      <td><%= @product.name %></td>
+    </tr>
+    <tr>
+      <td class="info">説明</td>
+      <td><%= @product.description %></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+<div class="col-xs-1 col-sm-1 col-md-2 col-lg-3"></div>
+
+<div class="col-xs-3 col-sm-3 col-md-4 col-lg-4">
+</div>
+<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+<table class="table table-bordered">
+  <tbody>
+    <tr class="success">
+      <td>シャーシ種類</td>
+      <td>対応</td>
+    </tr>
+    <tr>
+      <td>ゼロシャーシ</td>
+      <td><%= (@product.zero_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>タイプ5シャーシ</td>
+      <td><%= (@product.type5_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>スーパーⅠシャーシ</td>
+      <td><%= (@product.s1_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>スーパーⅡシャーシ</td>
+      <td><%= (@product.s2_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>スーパーFMシャーシ</td>
+      <td><%= (@product.sfm_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>スーパーTZシャーシ</td>
+      <td><%= (@product.stz_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>スーパーXシャーシ</td>
+      <td><%= (@product.sx_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>スーパーXX</td>
+      <td><%= (@product.sxx_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>VSシャーシ</td>
+      <td><%= (@product.vs_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>スーパーTZX</td>
+      <td><%= (@product.stzx_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>ARシャーシ</td>
+      <td><%= (@product.ar_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>MSシャーシ</td>
+      <td><%= (@product.ms_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>MAシャーシ</td>
+      <td><%= (@product.ma_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+    <tr>
+      <td>FMAシャーシ</td>
+      <td><%= (@product.fma_chassis_flag == true)? "◯": "－" %></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="col-xs-3 col-sm-3 col-md-4 col-lg-4">
+</div>
+
+
+</div>
+
+
+<%#= link_to 'Edit', edit_product_path(@product) %>
+<%#= link_to 'Back', products_path %>
