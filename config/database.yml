@@ -84,4 +84,4 @@ production:
   <<: *default
   database: mini4wd_production
   username: mini4wd
-  password: <%= ENV['MINI4WD_DATABASE_PASSWORD'] %>
+  password: mini4wd2323
